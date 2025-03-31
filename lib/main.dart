@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color.fromARGB(255, 103, 55, 185),
+          seedColor: const Color.fromARGB(255, 109, 60, 194),
         ),
       ),
       routes: {'/2tela': (context) => MyHomePage(title: 'titulo')},
